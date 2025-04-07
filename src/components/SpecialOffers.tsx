@@ -10,7 +10,7 @@ import { Card } from "./ui/card"
 export default function SpecialOffers() {
     return (
         <>
-            <div className="w-full bg-white mt-32">
+            <div className="w-full bg-white mt-32 mb-36">
                 <Container>
                     <div>
                         <div className="flex flex-col justify-center items-start gap-4 px-8 py-16">
